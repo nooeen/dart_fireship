@@ -1,1 +1,3 @@
-A simple command-line application.
+# Dart Playground
+
+This git is used for the purpose of learning the basic of Dart
